@@ -1,3 +1,4 @@
+// Constant pulling from the lib folder
 const Engineer = require("../lib/Engineer");
 
 test("Creates a github.", () => {

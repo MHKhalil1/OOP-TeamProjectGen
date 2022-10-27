@@ -1,3 +1,4 @@
+// Constant pulling from the lib folder
 const Manager = require("../lib/Manager");
 
 test("Create a office number.", () => {

@@ -1,3 +1,4 @@
+// Constant pulling from the lib folder
 const Employee = require("../lib/Employee");
 
 test("Create a new employee.", () => {

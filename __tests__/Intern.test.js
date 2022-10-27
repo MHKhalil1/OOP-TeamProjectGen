@@ -1,3 +1,4 @@
+// Constant pulling from the lib folder
 const Intern = require("../lib/Intern");
 
 test("Create school.", () => {

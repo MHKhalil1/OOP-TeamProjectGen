@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "oop-teamprojectgen",
+  "description": "![License](https://img.shields.io/badge/License-ISC-blue-svg)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHKhalil1/OOP-TeamProjectGen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHKhalil1/OOP-TeamProjectGen/issues"
+  },
+  "homepage": "https://github.com/MHKhalil1/OOP-TeamProjectGen#readme"
 }
